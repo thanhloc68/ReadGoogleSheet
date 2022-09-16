@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDlsdtzl6RC3Fgvh/Dpwds58mUxqAaiRPPqeNyXvLerJ9wRJp0K2nl/boRlsyxx+vcynTMpl4v8zzHncPuePaw==",
+  "success": true,
+  "projectFilePath": "D:\\NguyenThanhLoc\\ProjectFabico\\ManageBunker\\ManageBunker\\ManageBunker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\google.apis.drive.v3\\1.57.0.2789\\google.apis.drive.v3.1.57.0.2789.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\google.apis.sheets.v4\\1.57.0.2727\\google.apis.sheets.v4.1.57.0.2727.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
